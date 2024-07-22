@@ -1,6 +1,7 @@
 Employee Attrition Prediction
 
-Overview This project focuses on predicting employee attrition using
+Overview :
+This project focuses on predicting employee attrition using
 various machine learning models. The dataset includes features related
 to employee demographics, job role, and job satisfaction. The goal is to
 analyze these features and build models to predict whether an employee
