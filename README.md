@@ -9,4 +9,5 @@ This project focuses on predicting employee attrition using various machine lear
    pip install -r requirements.txt
 
 2. Run the analysis:
+   ```bash
 python analysis_script.py
